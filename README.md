@@ -1,1 +1,2 @@
-# META_Version_Control
+# META_Version_Control course
+
