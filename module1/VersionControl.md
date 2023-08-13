@@ -25,3 +25,8 @@ A system that records all changes and modifications to files for tracking purpos
 # DevOps
 
 Is a set of practices, philosophies and tools that increase an organization ability to deliver appliocations or services to a high quality and velocity
+
+# Types of version control systems (VCS)
+
+- <b> Centralized (CVCS): </b> contains a server with the main repository that has the full history of versions, the clients (developers) need to pull down the code to their local machine, after making any changes, need to push the changes so the other developers can see them
+- <b> Distributed (DVCS): </b> you still to pull the code down to the server, but every user is a server and not a client
