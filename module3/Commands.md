@@ -22,3 +22,14 @@ see your actual branch
 - move to the directory: cd my-second-repo
 - iniciate the repo: git init
 - add the connection of the directory to the github server "git remote"
+
+# HEAD
+
+head is a pointer to the last commit of the current branch
+
+- cd ,git
+- cat HEAD
+
+# Diff
+
+- git diff file1 file2
